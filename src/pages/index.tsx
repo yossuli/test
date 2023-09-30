@@ -33,7 +33,6 @@ const Home = () => {
                 <div
                   className={styles.stone}
                   style={{ backgroundColor: color === 1 ? '#000' : '#fff' }}
-                  
                 />
               )}
             </div>
